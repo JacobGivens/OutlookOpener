@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookOpen", "OutlookOpen.csproj", "{C66D81B5-B9C7-4D84-8C1E-806F127DFDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66D81B5-B9C7-4D84-8C1E-806F127DFDDA}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C66D81B5-B9C7-4D84-8C1E-806F127DFDDA}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C66D81B5-B9C7-4D84-8C1E-806F127DFDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66D81B5-B9C7-4D84-8C1E-806F127DFDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDDE532-74F0-4183-9A50-31D388B0F67C}
+	EndGlobalSection
+EndGlobal

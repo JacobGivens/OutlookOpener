@@ -1,0 +1,11 @@
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\bin\Release\OutlookOpen.exe.config
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\bin\Release\OutlookOpen.exe.manifest
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\bin\Release\OutlookOpen.application
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\bin\Release\OutlookOpen.exe
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\bin\Release\OutlookOpen.pdb
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\obj\Release\OutlookOpen.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\obj\Release\OutlookOpen.exe.manifest
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\obj\Release\OutlookOpen.application
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\obj\Release\OutlookOpen.exe
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\obj\Release\OutlookOpen.pdb
+D:\OneDrive\Projects\Visual Studio Projects\OutlookOpen\obj\Release\OutlookOpen.csprojAssemblyReference.cache
